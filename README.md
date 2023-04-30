@@ -1,6 +1,3 @@
-<<<<<<< Updated upstream
-# FirebaseAuthentication
-=======
 # Firebase Authentication: Sign Up and Login Project
 
 ## Overview
@@ -46,4 +43,4 @@ To run the project, simply open the `index.html` file in a web browser. The proj
 # Conclusion
 
 This project demonstrates how to implement Firebase Authentication for Login and Signup using JavaScript. You can use this as a starting point for your own authentication implementation.
->>>>>>> Stashed changes
+
