@@ -21,7 +21,7 @@ The project contains the following files:
 ![Welcome](WelcomePage.png)
 
 ## Password Reset Email
-![Password Reset](passwordreset.png)
+![Password Reset](PasswordReset.png)
 
 # Technology stack
 
