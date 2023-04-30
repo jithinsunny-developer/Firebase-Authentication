@@ -30,7 +30,6 @@ The project contains the following files:
 	* CSS 
 
 2. **Backend**: 
-	* Firebase
 	* JavaScript
 
 3. **Database / Authentication**: 
